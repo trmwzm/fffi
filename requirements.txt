@@ -1,2 +1,2 @@
 cffi 
-textX
+textX==2.2.0
